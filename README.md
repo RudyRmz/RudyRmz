@@ -19,7 +19,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,bootstrap,tailwind,react,vite,babel,bash,figma,nodejs,mongodb,firebase,postman,git,vscode,linux,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,bootstrap,tailwind,react,vite,babel,nodejs,mongodb,firebase,postman,git,bash,linux,vscode,figma,vercel)](https://skillicons.dev)
 
 <br>
 
