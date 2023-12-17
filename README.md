@@ -8,6 +8,8 @@
 
 <h3 align="center">Thanks for visiting my profile. I'm Rodolfo Ramírez, a passionate Junior Developer constantly evolving towards the Full Stack world. 💻✨ If you choose to work with me, you'll have on board a very dedicated and hardworking companion. If you want to learn more about me or need additional information, feel free to ask.</h3>
 
+<br>
+
 - 📫 How to reach me **rudy.ramirez.morales@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
