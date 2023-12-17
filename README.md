@@ -13,6 +13,7 @@
 
 <br>
 - 🔭 I’m currently working on **JavaScript, React, Nodejs, MongoDB**
+
 - 📫 How to reach me **rudy.ramirez.morales@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
