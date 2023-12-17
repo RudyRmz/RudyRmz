@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rodolfo Ramirez</h1>
 
 <div align="center"> <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Web+Developer;Active+Learner+%2F+Reseacher;Love+to+learn+new+stuffs++%3C3" alt="Typing SVG" /> </div>
-<a align="center" href="https://git.io/typing-svg"></a>
 
 <h3 align="center">Thanks for visiting my profile. I'm Rodolfo Ramírez, a passionate Junior Developer constantly evolving towards the Full Stack world. 💻✨ If you choose to work with me, you'll have on board a very dedicated and hardworking companion. If you want to learn more about me or need additional information, feel free to ask.</h3>
 
@@ -9,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rodolfo ramirez morales" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodolfo ramirez morales" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rodolfo-ramirez-morales-a577501a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodolfo ramirez morales" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
