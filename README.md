@@ -1,8 +1,3 @@
-### Hi! 👋 I'm Rodolfo Ramirez 👋
-
-Thanks for visiting my profile. I'm Rodolfo Ramírez, a passionate Junior Developer constantly evolving towards the Full Stack world. 💻✨
-If you choose to work with me, you'll have on board a very dedicated and hardworking companion. If you want to learn more about me or need additional information, feel free to ask.
-
 <h1 align="center">Hi 👋, I'm Rodolfo Ramirez</h1>
 <h3 align="center">Thanks for visiting my profile. I'm Rodolfo Ramírez, a passionate Junior Developer constantly evolving towards the Full Stack world. 💻✨ If you choose to work with me, you'll have on board a very dedicated and hardworking companion. If you want to learn more about me or need additional information, feel free to ask.</h3>
 
