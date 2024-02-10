@@ -9,10 +9,10 @@
        alt="snake" /></a>
 </div>
 
-<h3 align="center">Thanks for visiting my profile. I'm Rodolfo Ramírez, a passionate Junior Developer constantly evolving towards the Full Stack world. 💻✨ If you choose to work with me, you'll have on board a very dedicated and hardworking companion. If you want to learn more about me or need additional information, feel free to ask.</h3>
+<h3 align="center">Thanks for visiting my profile. I'm Rodolfo Ramírez, a passionate Developer constantly evolving towards the Full Stack world. 💻✨ If you choose to work with me, you'll have on board a very dedicated and hardworking companion. If you want to learn more about me or need additional information, feel free to ask.</h3>
 
 <br>
-🔭 I’m currently working on JavaScript, React, Nodejs, MongoDB
+🔭 I’m currently working on JavaScript, React, Node.js, MongoDB, Express.js, Next.js
 
 📫 How to reach me **rudy.ramirez.morales@gmail.com**
 
@@ -23,7 +23,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,bootstrap,tailwind,react,vite,babel,nodejs,mongodb,firebase,postman,git,bash,linux,vscode,figma,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,bootstrap,tailwind,react,vite,babel,nextjs,nodejs,express,mongodb,firebase,postman,git,github,bash,linux,vscode,figma,vercel,aws,gcp)](https://skillicons.dev)
 
 <br>
 
