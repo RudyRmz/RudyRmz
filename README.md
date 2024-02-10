@@ -9,7 +9,7 @@
        alt="snake" /></a>
 </div>
 
-<h3 align="center">Thanks for visiting my profile. I'm Rodolfo Ramírez, a passionate Developer constantly evolving towards the Full Stack world. 💻✨ If you choose to work with me, you'll have on board a very dedicated and hardworking companion. If you want to learn more about me or need additional information, feel free to ask.</h3>
+<h3 align="center">Thanks for visiting my profile. I'm Rodolfo Ramírez, a passionate Web Developer constantly evolving towards the Full Stack world. 💻✨ If you choose to work with me, you'll have on board a very dedicated and hardworking companion. If you want to learn more about me or need additional information, feel free to ask.</h3>
 
 <br>
 🔭 I’m currently working on JavaScript, React, Node.js, MongoDB, Express.js, Next.js
